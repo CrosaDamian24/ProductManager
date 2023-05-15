@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"title": "Postre Oreo",
+		"description": "Oreos, crema y dulce de leche",
+		"price": 1000,
+		"thumbnail": "https://d3ugyf2ht6aenh.cloudfront.net/stores/593/476/products/postre-oreo1-baebe795d818cd332016267243846221-640-0.png",
+		"code": "10001",
+		"stock": 50
+	},
+	{
+		"id": 2,
+		"title": "Postre Toddy",
+		"description": "Galletitas toddy, dulce y crema",
+		"price": 950,
+		"thumbnail": "https://lh6.googleusercontent.com/-0FLFbk4padM/VFVS1Q6fz8I/AAAAAAAAZFc/qIZhiLBfbRU/s640/blogger-image--229646297.jpg",
+		"code": "10001",
+		"stock": 8
+	}
+]
